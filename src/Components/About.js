@@ -5,9 +5,7 @@ const About = ({ data }) => {
     var name = data.name;
     var profilepic = "images/" + data.image;
     var bio = data.bio;
-    var street = data.address.street;
     var city = data.address.city;
-    var state = data.address.state;
     var zip = data.address.zip;
     var phone = data.phone;
     var email = data.email;
@@ -21,7 +19,7 @@ const About = ({ data }) => {
           <img
             className="profile-pic"
             src={profilepic}
-            alt="Sonny's Profile Pic"
+            alt="Paurush's Profile Pic"
           />
         </div>
         <div className="nine columns main-col">
@@ -35,9 +33,7 @@ const About = ({ data }) => {
                 <span>{name}</span>
                 <br />
                 <span>
-                  {street}
-                  <br />
-                  {city} {state}, {zip}
+                  {city}, {zip}
                 </span>
                 <br />
                 <span>{phone}</span>

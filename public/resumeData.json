@@ -1,46 +1,41 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Paurush Srivastava",
+    "occupation": "Full Stack Developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Paurush Srivastava! A determined Fullstack Developer having around 3 years of experience participating in the complete development lifecycle of successful software applications. I am an enthusiast, a learner, and passionate about multiple Full Stack Web Technologies. I have been working on web development for more than 3 years. The web applications I like to create have JavaScript at the core. Listed are the technologies I am sound with: JavaScript ES6, React.js, Redux, Typescript, HTML5, CSS3, Node.js, Express.js , MongoDB, Azure, Jest, RESTful APIs, Teamcity, Octopus Deploy, Sonarqube, JIRA, Git, Bitbucket, SQL Server, Software Design Patterns, Data Structures, Algorithms, OOP, OOJS.",
+    "contactmessage": "Get in touch with me for any leads!",
+    "email": "paurush2508@gmail.com",
+    "phone": "+91-7008-546-134",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Ramamurthy Nagar",
+      "city": "Bengaluru, India",
+      "state": "Karnataka",
+      "zip": "560016"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://www.linkedin.com/in/paurush2508",
+    "resumedownload": "https://drive.google.com/uc?id=1-TT3GeBNIjwfQZTDMBc6W3BDcbUjhbE5&export=download",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/paurush2508",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
+        "name": "twitter",
+        "url": "https://www.twitter.com/i_am_paurush",
+        "className": "fa fa-twitter"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/paurush2508",
         "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/i_am_paurush",
+        "className": "fa fa-instagram"
       }
     ]
   },
@@ -48,74 +43,106 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "National Institue of Science and Technology - Odisha",
+        "degree": "Bachelor's Degree (B.Tech), Computer Science",
+        "graduated": "June 2018",
+        "description": "Graduated with 8.24 CGPA"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "DealerSocket, Inc.",
+        "title": "Software Development Engineer",
+        "years": "March 2020 - Present",
+        "description": "Working as a Fullstack developer for the Dealership Automotive Company on the CRM - Desking Platform. Tech Stack: React.js, Redux, Material UI, TypeScript, JavaScript, SQL Server  "
+      },
+      {
+        "company": "Infosys Limited",
+        "title": "Systems Engineer",
+        "years": "July 2018 - March 2020",
+        "description": "Worked as a Frontend Developer mainly on the Dashboard and Reporting area for the Investment Banking client - Goldman Sachs. Tech Stack: Javascript, Tailwind CSS, Bootstrap, Material UI"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "Python",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
+        "level": "90%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "90%"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "TypeScript",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Express.js",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "90%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Google Docs Clone (React JS)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "googledocs.jpg",
+        "url": "https://google-docs-clone-nu.vercel.app"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Youtube Clone (React JS)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "youtube.jpg",
+        "url": "https://github.com/paurush2508/youtube-clone"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Twitter Clone (React JS)",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "twitter.jpg",
+        "url": "https://twitter-clone-d6539.web.app"
+      },
+      {
+        "title": "Checkout my Github Repositories",
+        "category": "",
+        "image": "github.jpg",
+        "url": "https://github.com/paurush2508?tab=repositories"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Paurush is very strong with his front end skills (react js). He is very passionate about his learning and growing as an individual in team.",
+        "user": "Vijeta Sobhwani (SDE, DealerSocket)"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Paurush is most dedicated professional I’ve worked with. We worked together at Infosys and he helped me a lot to get started and also to understand internal processes.",
+        "user": "Nishat Parween (Systems Engineer, Infosys)"
+      },
+      {
+        "text": "I know paurush as a hard-working and very serious team player. He is energetic, helpful, positive attitude person. His expertise as a developer considerable and his contribution is valuable to project.",
+        "user": "Priyanka Bhadra (SDE, DealerSocket)"
+      },
+      {
+        "text": "Paurush is a hard working guy having a vast knowledge in his technical field. Apart from academics he is also a good team player and fully dedicated person towards his Goals.",
+        "user": "Ashar Jami (Site Engineer, Muthroot FinCorp Ltd.)"
+      },
+      {
+        "text": "A hard working and fun loving person, would be the best way to describe Paurush. His optimism at the workplace is appreciable. A curious guy, who never settles for average and puts all his effort to attain perfection in whatever he does.",
+        "user": "Srijan Srivastava (Systems Engineer, Infosys)"
       }
     ]
   }
