@@ -23,10 +23,10 @@ const Footer = ({ data }) => {
             <li>
               Made with ❤️ by{" "}
               <a
-                title="Paurush Srivastava"
+                title="Paurush"
                 href="http://www.linkedin.com/in/paurush2508"
               >
-                Paurush Srivastava
+                Paurush
               </a>
             </li>
           </ul>
