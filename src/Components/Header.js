@@ -40,7 +40,7 @@ const Header = ({ data }) => {
             </a>
           </li>
           <li>
-            <a className="smoothscroll" href="https://blog.paurush.dev">
+            <a href="https://blog.paurush.dev" target="_blank" rel="noreferrer">
               Blog
             </a>
           </li>
