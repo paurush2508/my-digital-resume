@@ -97,19 +97,19 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Google Docs Clone (React JS)",
+        "title": "Google Docs Clone",
         "category": "",
-        "image": "googledocs.jpg",
+        "image": "googledoc.jpg",
         "url": "https://google-docs-clone-nu.vercel.app"
       },
       {
-        "title": "Youtube Clone (React JS)",
+        "title": "Youtube Clone",
         "category": "",
         "image": "youtube.jpg",
-        "url": "https://github.com/paurush2508/youtube-clone"
+        "url": "https://agitated-agnesi-5f6980.netlify.app"
       },
       {
-        "title": "Twitter Clone (React JS)",
+        "title": "Twitter Clone",
         "category": "",
         "image": "twitter.jpg",
         "url": "https://twitter-clone-d6539.web.app"
@@ -117,14 +117,44 @@
       {
         "title": "Airbnb Clone",
         "category": "",
-        "image": "airbnb.png",
+        "image": "airbnb.jpg",
         "url": "https://airbnb-clone-chi-nine.vercel.app"
       },
       {
-        "title": "Checkout my Github Repositories",
+        "title": "Cherry Gift Tree",
         "category": "",
-        "image": "github.jpg",
-        "url": "https://github.com/paurush2508?tab=repositories"
+        "image": "ecommerce.jpg",
+        "url": "https://flamboyant-fermat-32a45f.netlify.app"
+      },
+      {
+        "title": "To-do List",
+        "category": "",
+        "image": "todo.jpg",
+        "url": "https://peaceful-bhabha-fc2f5d.netlify.app/"
+      },
+      {
+        "title": "Pomodoro clock",
+        "category": "",
+        "image": "pomodoro.jpg",
+        "url": "https://suspicious-kilby-93e038.netlify.app/"
+      },
+      {
+        "title": "Calculator",
+        "category": "",
+        "image": "calculator.jpg",
+        "url": "https://flamboyant-goodall-40c592.netlify.app"
+      },
+      {
+        "title": "Random Quote Machine",
+        "category": "",
+        "image": "quotes.jpg",
+        "url": "https://sleepy-montalcini-e1c33f.netlify.app/"
+      },
+      {
+        "title": "Coordinate Renderer",
+        "category": "",
+        "image": "coordinate.jpg",
+        "url": "https://cranky-hoover-c28a9c.netlify.app/"
       }
     ]
   },

@@ -8,7 +8,12 @@ const Portfolio = ({ data }) => {
         <div key={projects.title} className="columns portfolio-item">
           <div className="item-wrap">
             <a href={projects.url} title={projects.title}>
-              <img alt={projects.title} src={projectImage} />
+              <img
+                alt={projects.title}
+                src={projectImage}
+                style={{ border: "1px solid black", padding: "4px" }}
+              />
+
               <div className="overlay">
                 <div className="portfolio-item-meta">
                   <h5>{projects.title}</h5>
@@ -20,6 +25,7 @@ const Portfolio = ({ data }) => {
               </div>
             </a>
           </div>
+          <p style={{textAlign: "center", color: 'black'}}>{projects.title}</p>
         </div>
       );
     });
@@ -29,11 +35,14 @@ const Portfolio = ({ data }) => {
     <section id="portfolio">
       <div className="row">
         <div className="twelve columns collapsed">
-          <h1>Check Out Some of My Works.</h1>
-
+          <h1 style={{color: 'black'}}>Check Out Some of My Works.</h1>
           <div
-            id="portfolio-wrapper"
-            className="bgrid-quarters s-bgrid-thirds cf"
+            style={{
+              width: "100%",
+              display: "grid",
+              gridTemplateColumns: "auto auto auto auto",
+              gridGap: "10px",
+            }}
           >
             {projects}
           </div>
