@@ -625,6 +625,25 @@ input[type="checkbox"] { display: inline; }
     margin: 0 auto;
 }
 
+.project-item{   
+   width: 100%;
+   display: grid;
+   grid-template-columns: auto auto auto auto auto;
+   grid-gap: 10px;
+   margin: auto;
+}
+
+@media only screen and (max-width: 900px) {
+   .project-item{   
+   width: 100%;
+   display: grid;
+   grid-template-columns: auto;
+   grid-gap: 10px;
+}
+}
+
+
+
 /* removed gutters */
 .row.collapsed > .column,
 .row.collapsed > .columns,
