@@ -437,11 +437,11 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
    position: relative;
 
-   -webkit-transition: all 0.3s ease-in-out;
+   /* -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out; */
 }
 .portfolio-item .item-wrap a {
    display: block;
@@ -460,10 +460,10 @@ ul#nav li.current a { color: #F06000; }
 	-moz-opacity: 0;
 	filter:alpha(opacity=0);
 
-   -webkit-transition: opacity 0.3s ease-in-out;
+   /* -webkit-transition: opacity 0.3s ease-in-out;
 	-moz-transition: opacity 0.3s ease-in-out;
 	-o-transition: opacity 0.3s ease-in-out;
-	transition: opacity 0.3s ease-in-out;
+	transition: opacity 0.3s ease-in-out; */
 
    background: url(../images/overlay-bg.png) repeat;
 }
