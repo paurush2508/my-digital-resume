@@ -8,7 +8,7 @@ const Portfolio = ({ data }) => {
         <div key={projects.title} className="columns portfolio-item">
           <div className="item-wrap" style={{ boxShadow: "2px 2px" }}>
             <a href={projects.url} title={projects.title}>
-              <img alt={projects.title} src={projectImage} />
+              <img width="640" height="360" alt={projects.title} src={projectImage} />
 
               <div className="overlay">
                 <div className="portfolio-item-meta">

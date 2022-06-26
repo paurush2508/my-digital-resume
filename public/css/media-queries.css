@@ -53,6 +53,9 @@
       width: 114px;
       height: 114px;
       margin-left: 12px;
+      object-fit: cover;
+      border: 2px solid #3d4145;
+      box-shadow: 2px 4px #3d4145;
    }
    #about .contact-details { width: 50%; }
    #about .download { width: 50%; }

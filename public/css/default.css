@@ -176,6 +176,7 @@ p img { margin: 0; }
 p.lead {
    font: 19px/36px 'opensans-light', sans-serif;
    margin-bottom: 18px;
+   color: #cccccc;
 }
 
 /* for 'em' and 'strong' tags, font-size and line-height should be same with
@@ -349,7 +350,7 @@ li p { }
    color: #313131;
 }
 .stats-tabs li a:hover {
-   color:#11ABB0;
+   color:#F06000;
 }
 .stats-tabs li a b {
 	display: block;
@@ -436,7 +437,7 @@ dd { margin: 0 0 0 20px; }
 }
 .pagination .current,
 .pagination .current:hover {
-   background-color: #11ABB0;
+   background-color: #F06000;
    color: #fff;
 }
 .pagination .inactive,

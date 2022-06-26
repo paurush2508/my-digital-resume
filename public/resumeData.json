@@ -1,13 +1,13 @@
 {
   "main": {
-    "name": "Paurush",
+    "name": "Paurush Srivastava",
     "occupation": "Full Stack Developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Paurush Srivastava! A determined Fullstack Developer having around 3 years of experience participating in the complete development lifecycle of successful software applications. I am an enthusiast, a learner, and passionate about multiple Full Stack Web Technologies. I have been working on web development for more than 3 years. The web applications I like to create have JavaScript at the core. Listed are the technologies I am sound with: JavaScript ES6, React.js, Redux, Typescript, HTML5, CSS3, Node.js, Express.js , MongoDB, Azure, Jest, RESTful APIs, Teamcity, Octopus Deploy, Sonarqube, JIRA, Git, Bitbucket, SQL Server, Software Design Patterns, Data Structures, Algorithms, OOP, OOJS.",
+    "bio": "Hi there! I am Paurush Srivastava! A determined Software Engineer having around 4 years of experience participating in the complete development lifecycle of successful software applications. I am an enthusiast, a learner, and passionate about multiple Full Stack Web Technologies. The web applications I like to create have JavaScript at the core. I am willing to work on projects alone or as a part of a highly talented team. Listed are the technologies I am sound with: React JS ( Web App Development ), React Native ( Mobile App Development ), Redux, JavaScript ES6, TypeScript, REST APIs, HTML5, CSS3, Git, SQL, Cosmos DB.",
     "contactmessage": "Get in touch with me for any leads!",
-    "email": "paurush2508@gmail.com",
-    "phone": "+91-7008-546-134",
+    "email": "Email: paurush2508@gmail.com",
+    "phone": "Contact: +91-7008-546-134",
     "address": {
       "street": "Ramamurthy Nagar",
       "city": "Bengaluru, India",
@@ -15,7 +15,7 @@
       "zip": "560016"
     },
     "website": "https://www.linkedin.com/in/paurush2508",
-    "resumedownload": "https://drive.google.com/uc?id=1-TT3GeBNIjwfQZTDMBc6W3BDcbUjhbE5&export=download",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1gswcyhiEewHN--pZmbCL-4QU8cnMx86G",
     "social": [
       {
         "name": "linkedin",
@@ -46,21 +46,37 @@
         "school": "National Institue of Science and Technology - Odisha",
         "degree": "Bachelor's Degree (B.Tech), Computer Science",
         "graduated": "June 2018",
-        "description": "Graduated with 8.24 CGPA"
+        "description": "Graduated with 8.24 CGPA ( GPA: 3.3 / 4.0 )"
       }
     ],
     "work": [
       {
+        "company": "Walmart",
+        "title": "Software Engineer III",
+        "years": "August 2021 - Present",
+        "description1": "• Develop interactive, user-friendly applications using React JS concepts for Web App Development and React Native for Mobile App Development.",
+        "description2": "• Contribute reusable components to the Walmart UI Development community.",
+        "description3": "• Optimize application for maximum speed and scalability.",
+        "description4": "• Measure and resolve performance bottlenecks using tools like Chrome DevTools, Lighthouse, etc.",
+        "description5": "• Actively participate in full software development lifecycle including planning, designing, coding, testing, and implementing."
+      },
+      {
         "company": "DealerSocket, Inc.",
         "title": "Software Development Engineer",
-        "years": "March 2020 - Present",
-        "description": "Working as a Fullstack developer for the Dealership Automotive Company on the CRM - Desking Platform. Tech Stack: React.js, Redux, Material UI, TypeScript, JavaScript, SQL Server  "
+        "years": "March 2020 - August 2021",
+        "description1": "• Developed and implemented highly responsive user interface components using React JS concepts.",
+        "description2": "• Translated UI/UX Mock-ups or wireframes into high quality code and the application.",
+        "description3": "• Contributed to all phases of software development life cycle having extensive experience working in an Agile development environment.",
+        "description4": "• Provided continuous value to customers through regular enhancements, timely bug fixes, and code refactoring."
       },
       {
         "company": "Infosys Limited",
-        "title": "Systems Engineer",
+        "title": "Frontend Web Developer",
         "years": "July 2018 - March 2020",
-        "description": "Worked as a Frontend Developer mainly on the Dashboard and Reporting area for the Investment Banking client - Goldman Sachs. Tech Stack: Javascript, Tailwind CSS, Bootstrap, Material UI"
+        "description1": "• Redesigned and simplified prevalent complex user interface while preserving all functionalities.",
+        "description2": "• Built clean, precise browser-compatible and reusable code and performed browser-based debugging.",
+        "description3": "• Designed, developed, and implemented tools and solutions to support agile development process.",
+        "description4": "• Experience working with Project Management Tools like VersionOne, JIRA."
       }
     ],
     "skills": [
@@ -68,6 +84,14 @@
         "name": "ReactJs",
         "level": "90%"
       },
+      {
+        "name": "React Native",
+        "level": "85%"
+      },
+      {
+        "name": "Redux",
+        "level": "85%"
+      },      
       {
         "name": "JavaScript",
         "level": "90%"
@@ -77,21 +101,29 @@
         "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "REST APIs",
+        "level": "85%"
       },
       {
-        "name": "Express.js",
-        "level": "80%"
+        "name": "HTML5",
+        "level": "90%"
       },
       {
-        "name": "Node.js",
-        "level": "80%"
+        "name": "CSS3",
+        "level": "87%"
+      },
+      {
+        "name": "Git",
+        "level": "88%"
       },
       {
         "name": "SQL",
         "level": "90%"
-      }
+      },
+      {
+        "name": "Cosmos DB",
+        "level": "85%"
+      }      
     ]
   },
   "portfolio": {
@@ -99,73 +131,71 @@
       {
         "title": "Google Docs Clone",
         "category": "",
-        "image": "googledoc.jpg",
+        "image": "test.gif",
         "url": "https://google-docs-clone-nu.vercel.app"
       },
       {
         "title": "Youtube Clone",
         "category": "",
-        "image": "youtube.jpg",
+        "image": "test.gif",
         "url": "https://agitated-agnesi-5f6980.netlify.app"
       },
       {
         "title": "Twitter Clone",
         "category": "",
-        "image": "twitter.jpg",
+        "image": "test.gif",
         "url": "https://twitter-clone-d6539.web.app"
       },
       {
         "title": "Airbnb Clone",
         "category": "",
-        "image": "airbnb.jpg",
+        "image": "test.gif",
         "url": "https://airbnb-clone-chi-nine.vercel.app"
       },
       {
         "title": "Cherry Gift Tree",
         "category": "",
-        "image": "ecommerce.jpg",
+        "image": "test.gif",
         "url": "https://flamboyant-fermat-32a45f.netlify.app"
       },
       {
         "title": "To-do List",
         "category": "",
-        "image": "todo.jpg",
+        "image": "test.gif",
         "url": "https://peaceful-bhabha-fc2f5d.netlify.app/"
       },
       {
         "title": "Pomodoro clock",
         "category": "",
-        "image": "pomodoro.jpg",
+        "image": "test.gif",
         "url": "https://suspicious-kilby-93e038.netlify.app/"
       },
       {
         "title": "Calculator",
         "category": "",
-        "image": "calculator.jpg",
+        "image": "test.gif",
         "url": "https://flamboyant-goodall-40c592.netlify.app"
       },
       {
         "title": "Random Quote Machine",
         "category": "",
-        "image": "quotes.jpg",
+        "image": "test.gif",
         "url": "https://sleepy-montalcini-e1c33f.netlify.app/"
       },
       {
         "title": "Coordinate Renderer",
         "category": "",
-        "image": "coordinate.jpg",
+        "image": "test.gif",
         "url": "https://cranky-hoover-c28a9c.netlify.app/"
-      },
-      {
-        "title": "Indian Flag",
-        "category": "",
-        "image": "flag.png",
-        "url": "https://peaceful-mcclintock-fef84f.netlify.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
+      {
+        "text": "I was impressed by Paurush's ability to handle any situation calmly and patiently, good team player . Keep up the good work ",
+        "user": "Arpitha Jn (SDE, Greenway Health)"
+      },
       {
         "text": "Paurush is very strong with his front end skills (react js). He is very passionate about his learning and growing as an individual in team.",
         "user": "Vijeta Sobhwani (SDE, DealerSocket)"
@@ -176,7 +206,7 @@
       },
       {
         "text": "I know paurush as a hard-working and very serious team player. He is energetic, helpful, positive attitude person. His expertise as a developer considerable and his contribution is valuable to project.",
-        "user": "Priyanka Bhadra (SDE, DealerSocket)"
+        "user": "Priyanka Bhadra (SDE, Paytm)"
       },
       {
         "text": "Paurush is a hard working guy having a vast knowledge in his technical field. Apart from academics he is also a good team player and fully dedicated person towards his Goals.",

@@ -23,7 +23,7 @@ const Resume = ({ data }) => {
             {work.title}
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
-          <p>{work.description}</p>
+          <p>{work.description1} <br /> {work.description2} <br /> {work.description3} <br /> {work.description4} <br /> {work.description5}</p>
         </div>
       );
     });
@@ -40,6 +40,29 @@ const Resume = ({ data }) => {
 
   return (
     <section id="resume">
+      <div className="row work">
+        <div className="three columns header-col">
+          <h1>
+            <span>Work History</span>
+          </h1>
+        </div>
+        <div className="nine columns main-col">{work}</div>
+      </div>
+      <section id="test">
+        <div className="row skill">
+          <div className="three columns header-col">
+            <h1>
+              <span>Skills</span>
+            </h1>
+          </div>
+          <div className="nine columns main-col">
+            <p>{skillmessage}</p>
+            <div className="bars">
+              <ul className="skills">{skills}</ul>
+            </div>
+          </div>
+        </div>
+      </section>
       <div className="row education">
         <div className="three columns header-col">
           <h1>
@@ -50,32 +73,6 @@ const Resume = ({ data }) => {
         <div className="nine columns main-col">
           <div className="row item">
             <div className="twelve columns">{education}</div>
-          </div>
-        </div>
-      </div>
-
-      <div className="row work">
-        <div className="three columns header-col">
-          <h1>
-            <span>Work</span>
-          </h1>
-        </div>
-
-        <div className="nine columns main-col">{work}</div>
-      </div>
-
-      <div className="row skill">
-        <div className="three columns header-col">
-          <h1>
-            <span>Skills</span>
-          </h1>
-        </div>
-
-        <div className="nine columns main-col">
-          <p>{skillmessage}</p>
-
-          <div className="bars">
-            <ul className="skills">{skills}</ul>
           </div>
         </div>
       </div>
